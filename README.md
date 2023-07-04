@@ -12,6 +12,8 @@ This project aims to evaluate the cloud data platform Snowflake as a tool for AI
 
 Implementation of this pattern can looks like a cloud data storage with multiple virtual warehouse on top of it, as Snowflake is.
 
+![Snowflake architecture](Project/images/architecture-overview.png)
+
 ## Snowflake tools for Machine Learning
 
 We want to challenge the tools and functionalities of Snowflake for Machine Learning : 
