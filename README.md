@@ -28,7 +28,7 @@ Here is the architecture of my project :
 
 ![Architecture of the project](Project/images/archi_snowflake.PNG)
 
-The files feature_engineering.ipynb and model.ipynb are actually in the same file model.ipynb, as the feature enginering takes place in the pipeline of the grid search cross-validation. The schema here is not actually accurate but helps understand what can be done with Snowflake.
+Feature engineering and model training are actually in the same file model.ipynb, as the feature enginering takes place in the pipeline of the grid search cross-validation. The schema here is not actually accurate but helps understand what can be done with Snowflake.
 
 
 ## Data 
