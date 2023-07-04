@@ -13,4 +13,4 @@ Implementation of this pattern can looks like a cloud data storage with multiple
 
 Here is the architecture of my project : 
 
-![Architecture of the project](./Projet/images/archi_snowflake.PNG)
+![Architecture of the project](Project/images/archi_snowflake.PNG)
